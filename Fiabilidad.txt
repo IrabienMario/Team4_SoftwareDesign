@@ -1,0 +1,11 @@
+Fiabilidad: Hasta dónde se puede esperar que un programa lleve a cabo su función con la exactitud requerida. El producto de responder ante situaciones no esperadas de una manera óptima.
+
+En otras palabras, el software funciona de manera consistente y predecible bajo diversas situaciones.
+
+La evaluación de la Fiabilidad de un producto de software por parte del usuario final mejora significativamente su calidad
+
+· La evaluación de la Madurez de un producto de software por parte del usuario final mejora significativamente su calidad
+
+· La evaluación de la Tolerancia a Fallas de un producto de software por parte del usuario final mejora significativamente su calidad
+
+· La evaluación de la Recuperabilidad de un producto de software por parte del usuario final mejora significativamente su calidad

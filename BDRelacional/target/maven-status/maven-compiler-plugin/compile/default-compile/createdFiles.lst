@@ -1,0 +1,8 @@
+BDNR\Conexion.class
+Vista\BDRelacional.class
+Modelo\Calificaciones.class
+Modelo\Alumno.class
+BD\conexion.class
+BD\QueryManager.class
+BDNR\QueryManager.class
+Controlador\CRUD.class

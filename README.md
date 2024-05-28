@@ -15,6 +15,6 @@ The project involves the implementation of a service-based software. The overarc
 
 ## [Diseño de clases](https://github.com/IrabienMario/Team4_SoftwareDesign/blob/main/Documentacion.md)
 
-## [Requerimientos Funcionales](https://github.com/IrabienMario/Team4_SoftwareDesign/blob/main/Documentacion.md)
+## [Requerimientos Funcionales](https://github.com/IrabienMario/Team4_SoftwareDesign/blob/main/RF.md)
 
 ## [Requerimientos No Funcionales](https://github.com/IrabienMario/Team4_SoftwareDesign/blob/main/RNF.md)
